@@ -1,0 +1,28 @@
+_repo: The-Mediterranean-b-Seaports-and-sea-routes-including-Madeira-the-Canary-Islands-the-coast-of__73849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baedeker, Karl
+    gutenberg_agent_id: '57249'
+    url: http://www.gutenberg.org/2009/agents/57249
+description: ''
+gutenberg_issued: '2024-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73849'
+language: en
+pgterms:marc904: https://archive.org/details/mediterraneansea00karl
+pgterms:marc905: 20181216223652baedeker
+pgterms:marc906: '1911'
+pgterms:marc907: DE
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLeipzig :$bKarl Baedeker, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Mediterranean : $b Seaports and sea routes including Madeira, the Canary
+  Islands, the coast of Morocco, Algeria, and Tunisia handbook for travellers'
+url: http://www.gutenberg.org/ebooks/73849

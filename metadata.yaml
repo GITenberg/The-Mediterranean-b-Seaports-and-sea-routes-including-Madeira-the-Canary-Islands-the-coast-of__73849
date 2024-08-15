@@ -1,11 +1,16 @@
 _repo: The-Mediterranean-b-Seaports-and-sea-routes-including-Madeira-the-Canary-Islands-the-coast-of__73849
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73849-h/images/cover.jpg
 creator:
   author:
     agent_name: Baedeker, Karl
     gutenberg_agent_id: '57249'
     url: http://www.gutenberg.org/2009/agents/57249
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73849#The-Mediterranean-b-Seaports-and-sea-routes-including-Madeira-the-Canary-Islands-the-coast-of_
 gutenberg_issued: '2024-06-17'
 gutenberg_type: Text
 identifiers:
